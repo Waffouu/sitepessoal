@@ -1,0 +1,90 @@
+body {
+	background-image: url("wallpaper glitch.png");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+#menu {
+	font-family: arial;
+	width: 1375px;
+	height: 60px;
+	text-align: center;
+	margin-top: -17px;
+	margin-left: -17px;
+	background-image: url("preto.png");
+	float: top;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	padding-top: 15px;
+	padding-right: 8px;
+}
+a:hover {
+	color: #b0b0b0;
+}
+a:active {
+	color: #565656;
+}
+#menu ul li a {
+	font-size: 25px;
+	text-decoration: none;
+	opacity: 100%;
+	color: white;
+	text-shadow: #a638eb
+}
+#menu ul {
+	list-style: none;
+}
+#menu li {
+	float: right;
+	margin-right: 30px;
+	margin-top: 0;
+
+}
+#menu img {
+	width: 120px;
+	height: 60px;
+	margin-left: 30px;
+	float: left;
+
+}
+#sobremim {
+	float:left;
+	margin-top: 100px;
+	background-image: url("75.png");
+	width: 860px;
+	height: 780px;
+	padding: 20px;
+	font-family: arial;
+	color: white;
+	margin-left: 10px;
+	margin-bottom: 50px;
+}
+#coluna {
+	float:right;
+	width: 350px;
+	height: 780px;
+	padding: 20px;
+	background-image: url("75.png");
+	margin-top: 100px;
+	font-family: arial;
+	color: white;
+	margin-right: 10px;
+}
+
+#coluna img {
+	width: 350px;
+	height: 530px;
+}
+
+#fotos {
+	background-image: url("75.png");
+	float:right;
+	width: 1275px;
+	height: 980px;
+	padding: 20px;
+	margin-right: 10px;
+	font-family: arial;
+	color: white;
+	margin-top: -25px;
+}
