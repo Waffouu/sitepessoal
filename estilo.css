@@ -97,3 +97,28 @@ a:active {
 #menu:hover {
 	background-image: url("preto.png");
 }
+#canal {
+	width: 500px;
+	float:right;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+#sobremim img {
+	float:left;
+}
+#canal a {
+	text-decoration: none;
+	color:pink;
+	font-size: 25px;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+}
+#canal a:hover {
+	color:lightcoral;
+}
+#sobremim iframe {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -10px;
+}
