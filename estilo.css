@@ -83,7 +83,7 @@ a:active {
 	height: 530px;
 }
 
-#fotos {
+#fort {
 	background-image: url("75.png");
 	float:right;
 	width: 1275px;
@@ -121,4 +121,89 @@ a:active {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: -10px;
+}
+.gran2 {
+	float:right;
+}
+.peq1 {
+	float: right;
+}
+.peq2 {
+	margin-top: -225px;
+	float:right;
+}
+.peq3 {
+	float:left;
+}
+.peq4 {
+	margin-top: 220px;
+	margin-left: -400px;
+	float: left;
+}
+#fort p {
+	text-align: center;
+	font-size: 25px;
+}
+#mine {
+	background-image: url("75.png");
+	float:right;
+	width: 1275px;
+	height: 520px;
+	padding: 20px;
+	margin-right: -20px;
+	margin-top: 60px;
+	font-family: arial;
+	color: white;
+}
+.mine1 {
+	float: right;
+}
+.mine2 {
+	float: right;
+	margin-top: -225px;
+}
+#mine p {
+	text-align: center;
+	font-size: 25px;
+}
+#shop {
+	background-image: url("75.png");
+	float:right;
+	width: 1275px;
+	height: 1420px;
+	padding: 20px;
+	margin-right: -20px;
+	margin-top: 20px;
+	font-family: arial;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+}
+.shop1 {
+	float: left;
+	margin-left: 40px;
+}
+.shop {
+	float: right;
+	margin-right: 40px;
+}
+.shop2 {
+	float: right;
+	margin-top: 10px;
+	margin-right: 40px;
+}
+.shop3 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.shop4 {
+	float:right;
+	margin-top: 10px;
+	margin-right: 40px;
+}
+.shop5 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 40px;
 }
