@@ -122,22 +122,30 @@ a:active {
 	margin-right: auto;
 	margin-top: -10px;
 }
+.gran1 {
+	margin-left: 20px;
+}
 .gran2 {
 	float:right;
+	margin-right: 20px;
 }
 .peq1 {
 	float: right;
+	margin-right: 20px;
 }
 .peq2 {
 	margin-top: -225px;
 	float:right;
+	margin-right: 20px;
 }
 .peq3 {
 	float:left;
+	margin-left: 20px;
 }
 .peq4 {
 	margin-top: 220px;
 	margin-left: -400px;
+	margin-right: -40px;
 	float: left;
 }
 #fort p {
@@ -155,12 +163,17 @@ a:active {
 	font-family: arial;
 	color: white;
 }
+.mine {
+	margin-left: 20px;
+}
 .mine1 {
 	float: right;
+	margin-right: 20px;
 }
 .mine2 {
 	float: right;
 	margin-top: -225px;
+	margin-right: 20px;
 }
 #mine p {
 	text-align: center;
