@@ -220,3 +220,65 @@ a:active {
 	margin-top: 10px;
 	margin-left: 40px;
 }
+#musica {
+	background-image: url("75.png");
+	float:right;
+	width: 605px;
+	height: 840px;
+	padding: 20px;
+	margin-right: -20px;
+	margin-top: 20px;
+	font-family: arial;
+	color: white;
+}
+#resto {
+	background-image: url("75.png");
+	float:left;
+	width: 605px;
+	height: 840px;
+	padding: 20px;
+	margin-left: -20px;
+	margin-top: 20px;
+	font-family: arial;
+	color: white;
+}
+.mus {
+	text-align: center;
+	font-size: 25px;
+}
+#doom {
+	width: 350px;
+	height: 200px;
+	float:right;
+	font-size: 15px;
+}
+#acdc {
+	width: 350px;
+	height: 200px;
+	float:left;
+	font-size: 15px;
+}
+#nero {
+	width: 350px;
+	height: 200px;
+	float:right;
+	font-size: 15px;
+}
+#felps {
+	width: 350px;
+	height: 200px;
+	float:left;
+	font-size: 15px;
+}
+#ordem {
+	width: 350px;
+	height: 200px;
+	float:right;
+	font-size: 15px;
+}
+#lango {
+	width: 350px;
+	height: 200px;
+	float:left;
+	font-size: 15px;
+}
